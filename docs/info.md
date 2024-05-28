@@ -9,12 +9,13 @@ You can also include images in this folder and reference them in the markdown. E
 
 ## How it works
 
-Explain how your project works
+when 1 is applied at the input, output becomes 0 and viceversa
 
 ## How to test
 
-Explain how to use your project
+apply 1 and check the output
 
 ## External hardware
 
 List external hardware used in your project (e.g. PMOD, LED display, etc), if any
+NIL
